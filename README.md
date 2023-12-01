@@ -24,6 +24,11 @@ Here is the Step-By-Step Guide to the project
 **Step 3 -Upload the HTML code file inside the Container**
 
 
+![Code for website.txt](https://github.com/ssquadri/Static-Website-in-Azure-Blob-SAS-Token/blob/ecd8f7c642f02825d0f4691e4ea921b0c0d8c6e6/Code%20for%20website.txt)
+
+
+![Landing page.htm](https://github.com/ssquadri/Static-Website-in-Azure-Blob-SAS-Token/blob/ecd8f7c642f02825d0f4691e4ea921b0c0d8c6e6/Landing%20page.htm)
+
 
 ![3.upload the HTML code file inside the container.png](https://github.com/ssquadri/Static-Website-in-Azure-Blob-SAS-Token/blob/1bf251a818efeef90a1df2930aaeba14a5dffe48/3.upload%20the%20HTML%20code%20file%20inside%20the%20container.png)
 
