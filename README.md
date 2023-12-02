@@ -8,6 +8,7 @@ Here is the Step-By-Step Guide to the project
 
 
 
+
 ![1.Create Storage Account in Azure.png](https://github.com/ssquadri/Static-Website-in-Azure-Blob-SAS-Token/blob/1bf251a818efeef90a1df2930aaeba14a5dffe48/1.Create%20Storage%20Account%20in%20Azure.png)
 
 
